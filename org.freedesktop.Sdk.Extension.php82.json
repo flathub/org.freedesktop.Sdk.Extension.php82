@@ -114,8 +114,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.27.tar.gz",
-                    "sha256": "c4693ad108f80f4d181ece0d4b583c8cd04c9e34d8046c8d03aeb5eed5809316",
+                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.28.tar.gz",
+                    "sha256": "0e60ba9d0fa4021c57a70c071f3d8f71de236275d084e560d5959fec4edd8c32",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 11010,
@@ -154,8 +154,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.4.5.tgz",
-                    "sha256": "f58442306ce55fe3b811c31759a247242989164f2a7933f05c8d59b06665b9c9",
+                    "url": "https://xdebug.org/files/xdebug-3.5.1.tgz",
+                    "sha256": "0f26849a5edf3d9120edc100219854599d54f923a8a4d1cb4fe4403520e49678",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
@@ -184,8 +184,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://getcomposer.org/download/2.8.11/composer.phar",
-                    "sha256": "257a969e9a9d27e0e45cfe954835c17a76033ba84a388e0f472db83eded65a8b",
+                    "url": "https://getcomposer.org/download/2.9.5/composer.phar",
+                    "sha256": "c86ce603fe836bf0861a38c93ac566c8f1e69ac44b2445d9b7a6a17ea2e9972a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9710,
